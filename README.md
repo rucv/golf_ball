@@ -1,4 +1,4 @@
-# A *Faster* Pytorch Implementation of Faster R-CNN
+# Efficient Golf Ball Detection and Tracking Based on Convolutional Neural Networks and Kalman Filter 
 
 ## Introduction
 
