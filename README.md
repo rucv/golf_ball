@@ -5,7 +5,7 @@ We borrow the codes and implementations from [jwyang-faster-rcnn.pytorch](https:
 Below are some detection results:
 
 <div style="color:#0000FF" align="center">
-<img src="images/Process.png" width="430"/> <img src="images/img4_det_res101.jpg" width="430"/>
+<img src="images/Process.png" width="430"/>
 </div>
 
 ## Citation
