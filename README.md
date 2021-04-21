@@ -21,8 +21,8 @@ Some tracking results are shown below:
 ## Citation
 
 @article{zhang2020efficient,
-  title={Efficient Golf Ball Detection and Tracking Based on Convolutional Neural Networks and Kalman Filter},
-  author={Zhang, Tianxiao and Zhang, Xiaohan and Yang, Yiju and Wang, Zongbo and Wang, Guanghui},
-  journal={arXiv preprint arXiv:2012.09393},
-  year={2020}
+  Title={Efficient Golf Ball Detection and Tracking Based on Convolutional Neural Networks and Kalman Filter},
+  Author={Zhang, Tianxiao and Zhang, Xiaohan and Yang, Yiju and Wang, Zongbo and Wang, Guanghui},
+  Journal={arXiv preprint arXiv:2012.09393},
+  Year={2020}
 }
