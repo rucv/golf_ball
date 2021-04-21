@@ -1,6 +1,6 @@
 # Efficient Golf Ball Detection and Tracking Based on Convolutional Neural Networks and Kalman Filter 
 
-We borrow the codes and implementations from [jwyang-faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0), the Pytorch version is 1.0, pleaes refer to [jwyang-faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0) for more details of setups and implementations.
+We borrow the codes and implementations from [jwyang-faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0), and the Pytorch version is 1.0. Please refer to [jwyang-faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch/tree/pytorch-1.0) for more details of setups and implementations.
 
 ## Approach
 Below is the framework of proposed method:
