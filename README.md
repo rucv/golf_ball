@@ -19,24 +19,10 @@ Some tracking results are shown below:
 </div>
 
 ## Citation
-    @article{jjfaster2rcnn,
-        Author = {Jianwei Yang and Jiasen Lu and Dhruv Batra and Devi Parikh},
-        Title = {A Faster Pytorch Implementation of Faster R-CNN},
-        Journal = {https://github.com/jwyang/faster-rcnn.pytorch},
-        Year = {2017}
-    }
-
-    @inproceedings{renNIPS15fasterrcnn,
-        Author = {Shaoqing Ren and Kaiming He and Ross Girshick and Jian Sun},
-        Title = {Faster {R-CNN}: Towards Real-Time Object Detection
-                 with Region Proposal Networks},
-        Booktitle = {Advances in Neural Information Processing Systems ({NIPS})},
-        Year = {2015}
-    }
 
     @article{zhang2020efficient,
       title={Efficient Golf Ball Detection and Tracking Based on Convolutional Neural Networks and Kalman Filter},
       author={Zhang, Tianxiao and Zhang, Xiaohan and Yang, Yiju and Wang, Zongbo and Wang, Guanghui},
       journal={arXiv preprint arXiv:2012.09393},
       year={2020}
-}
+    }
