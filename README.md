@@ -27,6 +27,7 @@ Some tracking results are shown below:
       year={2020}
     }
     
+    
     @inproceedings{zhang2020real,
       title={Real-time golf ball detection and tracking based on convolutional neural networks},
       author={Zhang, Xiaohan and Zhang, Tianxiao and Yang, Yiju and Wang, Zongbo and Wang, Guanghui},
