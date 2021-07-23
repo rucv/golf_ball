@@ -26,3 +26,11 @@ Some tracking results are shown below:
       journal={arXiv preprint arXiv:2012.09393},
       year={2020}
     }
+    @inproceedings{zhang2020real,
+      title={Real-time golf ball detection and tracking based on convolutional neural networks},
+      author={Zhang, Xiaohan and Zhang, Tianxiao and Yang, Yiju and Wang, Zongbo and Wang, Guanghui},
+      booktitle={2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+      pages={2808--2813},
+      year={2020},
+      organization={IEEE}
+    }
